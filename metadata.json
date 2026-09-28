@@ -1,0 +1,9 @@
+{
+  "name": "Sunny ☀️ UI - 3D Glass Mobile Launcher",
+  "description": "An ultra-fluid mobile launcher featuring tactile 3D refractive glass icons, dynamic solar lighting engine, interactive widgets, sunny control center, and modular apps.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
